@@ -58,6 +58,7 @@ public class Main {
 		
 		System.out.println("i call function if i not null");
 		System.out.println("-------------------------------------");
+		System.out.println("i call function if i not null");
 		System.out.println("-------------------------------------");
 		return "zizi";
 	}
