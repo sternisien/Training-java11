@@ -18,6 +18,7 @@ public class Main {
 	    maList.add("titi");
 	    maList.add("tata");
 	    maList.add("tata");
+	    maList.add("FROM MASTER");
 	   //maList = maList.stream().dropWhile(s -> s.endsWith("o")).collect(Collectors.toList());
 	    maList.forEach(maChaine -> System.out.println(maChaine));
 	    System.out.println(maList.size());
