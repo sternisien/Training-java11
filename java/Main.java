@@ -34,6 +34,7 @@ public class Main {
 	   
 	   System.out.println("-------------------------------------");
 	   System.out.println("optional else");
+	   System.out.println("optional else");
 	   myResult = Optional.ofNullable(result).orElse(executeFunctionWithOptional());
 	   
 	   String test = "t";
