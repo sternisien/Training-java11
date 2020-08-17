@@ -52,6 +52,7 @@ public class Main {
 	      list3.forEach(System.out::print);
 	      //THIS A COMMENT
 	      System.out.println("hello world");
+	      System.out.print("toto");
 	}
 	
 	public static String  executeFunctionWithOptional() {
