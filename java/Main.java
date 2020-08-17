@@ -50,11 +50,13 @@ public class Main {
 	      List<String> list3= new ArrayList();
 	      list3.add("Ram");
 	      list3.add("TutorialPoints");
+	      list3.add("branch titi");
 	      list3.forEach(System.out::print);
 	      //THIS A COMMENT
 	      System.out.println("hello world");
 	      System.out.print("toto");
 	      System.out.print("hello sebastien");
+	      System.out.print("hello mallaury");
 	}
 	
 	public static String  executeFunctionWithOptional() {
